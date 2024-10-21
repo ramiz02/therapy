@@ -37,6 +37,22 @@ const App = () =>{
           <h2 className='text'>No yoga no peace<br/>
           Know yoga know peace</h2>
         </div>
+        <section>
+          <h3>Phone No - 9339856095 / 9674821025</h3>
+          <h4>mail address - 
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramanathsmailbox@rediffmail.com" target="_blank">
+              ramanathsmailbox@rediffmail.com
+            </a>
+          </h4>
+          <h3>Clinic Address-
+              Larica green pailan 
+              Daulatpur 
+              South 24 pgs
+              Opposite pailan park 
+              Kolkata-700104
+            </h3>
+            <h3>website-<a href='https://drroychowdhuryclinic.whitecoats.com/' target='_blank'>https://drroychowdhuryclinic.whitecoats.com/</a></h3>
+        </section>
     </div>
     <footer className='footer'>
   <div>
